@@ -1,0 +1,41 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sentra Genset
+
+## Skin
+
+### Label
+Label_4337C31E_54A4_4DE0_41C5_69D21DB22E34.text = Copyright SERRUM ARTHANDLING
+Label_4CAFF0C7_54AC_4C60_41CB_3285308CC2D1.text = Copyright SERRUM ARTHANDLING
+
+## Media
+
+### Title
+panorama_44AE2AF6_54AC_BC20_41B0_D2542BDF99E7.label = R0012171
+panorama_5A1578C5_54AB_BC60_41D2_430FDB9AAE5E.label = R0012166
+panorama_5A15CB9F_54AB_DCE0_41B9_A97336E1E73A.label = R0012165
+panorama_5A1A85EC_54A4_5421_41C9_38659A652D58.label = R0012167
+panorama_5A1AB04B_54A4_4C60_41D4_F4166F4300AF.label = R0012169
+panorama_5A1AD302_54A4_4DE0_41CE_A3EB8B87BB45.label = R0012168
+panorama_5A1AFD6C_54A4_5420_41D1_7D96C3FA2E30.label = R0012170
+panorama_5A1EAE79_54AB_F420_41CC_96FC6B564057.label = R0012164
+panorama_5B6B48AC_54AB_DC20_41A6_179257609615.label = R0012163
+
+## Action
+
+### URL
+LinkBehaviour_43C7E22E_54E4_4C20_41CE_41102392BDB5.source = https://sentragenset.com/
+LinkBehaviour_43FA822E_54E4_4C20_41B2_CC5A56AFFEDE.source = https://www.tokopedia.com/sentragenset/genset-10-kva-1-phase-tsuzumi-japan-generator-tdg-11000-s-1
+LinkBehaviour_43FB322E_54E4_4C20_41C2_EB13B28657DF.source = https://www.tokopedia.com/sentragenset/genset-10-kva-1-phase-tsuzumi-japan-generator-tdg-11000-s-1
+LinkBehaviour_4D450B9E_54AC_7CE0_41D5_060B49755C7D.source = https://sentragenset.com/
+PopupWebFrameBehaviour_431BD997_54E7_DCEF_41C7_FF91B0308FD3.url = https://ockgraff.sirv.com/genset/genset%202/genset%202.spin
+PopupWebFrameBehaviour_435BF5C2_54A7_B460_41D2_FA64FA25B815.url = https://www.google.com/maps/embed?pb=!4v1612036730229!6m8!1m7!1sJ7A_DCuhxwaigL_uZt1Msg!2m2!1d-6.208829239091105!2d106.6823443171196!3f76.59162844426587!4f2.150746684725533!5f0.4000000000000002
+PopupWebFrameBehaviour_43B1A458_54E4_D460_41D3_BC909DA7613B.url = https://ockgraff.sirv.com/genset/genset%202/genset%202.spin
+PopupWebFrameBehaviour_43C61A0D_54A5_BFE0_4161_E2E2982EC448.url = https://www.google.com/maps/embed?pb=!4v1612036730229!6m8!1m7!1sJ7A_DCuhxwaigL_uZt1Msg!2m2!1d-6.208829239091105!2d106.6823443171196!3f76.59162844426587!4f2.150746684725533!5f0.4000000000000002
+PopupWebFrameBehaviour_4EB6F413_54AC_4BE0_41D3_8A411C41189B.url = //www.youtube.com/embed/7GtPodS37BY
+PopupWebFrameBehaviour_4EDB409F_54AC_4CE0_4180_D0D21C9CF718.url = //www.youtube.com/embed/7GtPodS37BY
